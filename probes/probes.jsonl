@@ -1,0 +1,8 @@
+{"input": "Portable Network Graphics", "expect": "PNG", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "Ruby on Rails", "expect": "ROR", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "First In, First Out", "expect": "FIFO", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "GNU Image Manipulation Program", "expect": "GIMP", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "Complementary metal-oxide semiconductor", "expect": "CMOS", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "Something - I made up from thin air", "expect": "SIMUFTA", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "Halley's Comet", "expect": "HC", "raised": false, "task": "acronym", "lang": "javascript"}
+{"input": "The Road _Not_ Taken", "expect": "TRNT", "raised": false, "task": "acronym", "lang": "javascript"}
